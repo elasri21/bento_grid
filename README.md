@@ -40,8 +40,8 @@ The two components in the left column on desktop are placed at the bottom on mob
 
 ### Links
 
-- Solution URL: [click here]()
-- Live Site URL: [click here]()
+- Solution URL: [click here](https://github.com/elasri21/bento_grid)
+- Live Site URL: [click here](https://elasri21.github.io/bento_grid/)
 
 ### Built with
 
